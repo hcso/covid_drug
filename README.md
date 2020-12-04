@@ -1,6 +1,8 @@
-# covid_drug
+
 # Exploring drugs and vaccines associated with altered risks and severity of COVID-19: a UK Biobank cohort study of all ATC level-4 drug categories
 Preprint (First Draft 4th Dec 2020)
+
+
 Abstract
 
 Background: COVID-19 is a major public health concern, yet its risk factors are not well-understood and effective therapies are lacking. It remains unclear how different drugs may increase or decrease the risks of infection and severity of disease. 
